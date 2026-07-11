@@ -1,1 +1,2 @@
-Check Output on this link:  https://aitools-a2345.netlify.app/
+A modern web application showcasing the best AI Chatbots, AI PPT Makers, etc services in a clean glassmorphism UI. Built with responsive design, smooth animations, and an intuitive user experience.
+Discover the best AI tools in one place. Compare leading AI chatbots, AI presentation makers, and useful productivity tools with a clean, fast, and user-friendly interface. Find the right tool for coding, writing, research, presentations, and everyday tasks.
